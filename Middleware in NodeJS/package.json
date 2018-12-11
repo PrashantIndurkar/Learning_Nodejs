@@ -1,0 +1,14 @@
+{
+  "name": "middleware",
+  "version": "1.0.0",
+  "description": "Middlewares in nodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prashant indurkar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
